@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/reserve/static/css/main.d2185bf8.chunk.css",
-    "main.js": "/reserve/static/js/main.32723318.chunk.js",
-    "main.js.map": "/reserve/static/js/main.32723318.chunk.js.map",
-    "runtime-main.js": "/reserve/static/js/runtime-main.85edb53e.js",
-    "runtime-main.js.map": "/reserve/static/js/runtime-main.85edb53e.js.map",
-    "static/js/2.3bf03b58.chunk.js": "/reserve/static/js/2.3bf03b58.chunk.js",
-    "static/js/2.3bf03b58.chunk.js.map": "/reserve/static/js/2.3bf03b58.chunk.js.map",
-    "index.html": "/reserve/index.html",
-    "precache-manifest.77fee0310d15e186d2244706a90a97f4.js": "/reserve/precache-manifest.77fee0310d15e186d2244706a90a97f4.js",
-    "service-worker.js": "/reserve/service-worker.js",
-    "static/css/main.d2185bf8.chunk.css.map": "/reserve/static/css/main.d2185bf8.chunk.css.map",
-    "static/js/2.3bf03b58.chunk.js.LICENSE": "/reserve/static/js/2.3bf03b58.chunk.js.LICENSE",
-    "static/media/logo.mp4": "/reserve/static/media/logo.2d5cad77.mp4",
-    "static/media/logo.png": "/reserve/static/media/logo.4361f2b5.png"
+    "main.css": "/reserve-deploy/static/css/main.d2185bf8.chunk.css",
+    "main.js": "/reserve-deploy/static/js/main.4a7960e4.chunk.js",
+    "main.js.map": "/reserve-deploy/static/js/main.4a7960e4.chunk.js.map",
+    "runtime-main.js": "/reserve-deploy/static/js/runtime-main.ff561872.js",
+    "runtime-main.js.map": "/reserve-deploy/static/js/runtime-main.ff561872.js.map",
+    "static/js/2.096bafe9.chunk.js": "/reserve-deploy/static/js/2.096bafe9.chunk.js",
+    "static/js/2.096bafe9.chunk.js.map": "/reserve-deploy/static/js/2.096bafe9.chunk.js.map",
+    "index.html": "/reserve-deploy/index.html",
+    "precache-manifest.613bc173608d6eb364f12ca0bb39e587.js": "/reserve-deploy/precache-manifest.613bc173608d6eb364f12ca0bb39e587.js",
+    "service-worker.js": "/reserve-deploy/service-worker.js",
+    "static/css/main.d2185bf8.chunk.css.map": "/reserve-deploy/static/css/main.d2185bf8.chunk.css.map",
+    "static/js/2.096bafe9.chunk.js.LICENSE": "/reserve-deploy/static/js/2.096bafe9.chunk.js.LICENSE",
+    "static/media/logo.mp4": "/reserve-deploy/static/media/logo.2d5cad77.mp4",
+    "static/media/logo.png": "/reserve-deploy/static/media/logo.4361f2b5.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.85edb53e.js",
-    "static/js/2.3bf03b58.chunk.js",
+    "static/js/runtime-main.ff561872.js",
+    "static/js/2.096bafe9.chunk.js",
     "static/css/main.d2185bf8.chunk.css",
-    "static/js/main.32723318.chunk.js"
+    "static/js/main.4a7960e4.chunk.js"
   ]
 }
